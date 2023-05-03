@@ -1,4 +1,4 @@
-# P5 - Parcours Dev d'application JS-React OpenClassrooms - "GameOn"
+# P4 - Parcours Dev d'application JS-React OpenClassrooms - "GameOn"
 
 ### Réalisation - "Créez une landing page avec JavaScript"
 
