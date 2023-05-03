@@ -2,7 +2,7 @@
 
 ### Réalisation - "Créez une landing page avec JavaScript"
 
-- [Dossier src du repo](https://github.com/barthRachel/GameOn)
+- [Site GameOn](https://barthrachel.github.io/GameOn/)
 
 ---
 
